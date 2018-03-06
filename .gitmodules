@@ -1,1 +1,10 @@
 
+[submodule "module01"]
+	path = module01
+	url = https://github.com/ajpo-git-submodules/module01.git
+[submodule "module02"]
+	path = module02
+	url = https://github.com/ajpo-git-submodules/module02.git
+[submodule "module03"]
+	path = module03
+	url = https://github.com/ajpo-git-submodules/module03.git
